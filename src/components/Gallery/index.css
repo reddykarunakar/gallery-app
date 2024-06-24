@@ -1,0 +1,10 @@
+/* Write your code here. */
+.list-container {
+  list-style: none;
+  display: flex;
+  justify-content: start;
+}
+
+.container {
+  padding: 30px;
+}

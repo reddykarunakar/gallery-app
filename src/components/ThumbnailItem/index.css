@@ -1,0 +1,14 @@
+/* Write your code here. */
+.img {
+  padding-right: 20px;
+  cursor: pointer;
+}
+
+button {
+  border: none;
+  background-color: white;
+}
+
+.present-image {
+  opacity: 0.5;
+}
